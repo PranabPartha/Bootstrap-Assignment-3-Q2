@@ -1,0 +1,41 @@
+
+.header_area{
+	background:#3A5795;
+	padding:8px 0;
+	height:80px;
+}
+.logo{
+	font-weight:bold;
+	color:#fff;
+}
+
+
+
+.form-control{
+	height:25px;
+}
+.color{
+	color:#EDF0F5;
+	font-size:12px;
+	
+}
+.b{
+	margin-top:21px;
+	
+}
+ .btn{
+	padding:3px 2px;
+}
+.hbd{
+	font-size:10px;
+}
+.media-body{
+	padding-top:18px;
+}
+
+.media-left img{
+	margin-top:10px;
+}
+.content_area{
+	background:#EDF0F5;
+}
